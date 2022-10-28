@@ -7,6 +7,6 @@
 -Eu estou enteressado: Aprender programação
 
 
--Eu estou aprendendo: Scratch,JavaScript
+-Eu estou aprendendo: Scratch,JavaScript e HTML
 -
 
